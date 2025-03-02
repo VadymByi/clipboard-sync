@@ -1,3 +1,4 @@
+ HEAD
 
 # Logs
 logs
@@ -131,4 +132,9 @@ dist
 .pnp.*
 
 
+
+
+node_modules/
+.env
+.DS_Store
 
